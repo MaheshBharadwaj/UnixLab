@@ -1,0 +1,5 @@
+#ignore script files
+*.sh
+#ignore txt files
+*.txt
+
